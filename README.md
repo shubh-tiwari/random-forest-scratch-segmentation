@@ -14,4 +14,4 @@ This repo contains the scripts to detect scratch defects on metal nut using rand
 #### The model gives the accuracy score of 95.39% on validation dataset
 
 ### Acknowledgment for the metal nut image dataset
-Paul Bergmann, Michael Fauser, David Sattlegger and Carsten Steger, the authors of the [MVTec paper](#https://openaccess.thecvf.com/content_CVPR_2019/papers/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.pdf)
+Paul Bergmann, Michael Fauser, David Sattlegger and Carsten Steger, the authors of the [MVTec-AD paper](#https://openaccess.thecvf.com/content_CVPR_2019/papers/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.pdf)
